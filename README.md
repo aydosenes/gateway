@@ -21,26 +21,7 @@ Once you have cloned these 3 repositories, run them all and use http://localhost
 You can see the endpoints in ocelot.json in gateway.
 Add some contact with their details by http://localhost:5000/contact-service/contact/add-contact-with-detail endpoint
 
-Example JSON:
-{
-  "contactWithContactDetailList": {
-    "contact": {
-      "name": "enes",
-      "surname": "aydos",
-      "company": "free",
-      "contactDetailIdList": [        
-      ]
-    },
-    "contactDetailList": [
-      {        
-        "phone": "5435335333",
-        "email": "aydos@aydos.com",
-        "location": "uskudar",
-        "contactId": null
-      }
-    ]
-  }
-}
+Example JSON: http://jsonblob.com/1013899082766499840
 
 And to see the report results in excel file, copy and paste this url to browser then hit enter!
 
