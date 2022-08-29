@@ -13,8 +13,11 @@ Report Service: https://github.com/aydosenes/report-service
 ## Steps
 
 1- Make sure you have .NET Core 3.1 SDK and Visual Studio 2019
+
 2- DockerHub Desktop for containerizations of RabbitMQ and MongoDB
+
 3- MongoDBCompass for Database Management
+
 4- Postman
 
 Once you have cloned these 3 repositories, run them all and use http://localhost:5000 port for the gateway.
