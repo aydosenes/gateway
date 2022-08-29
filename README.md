@@ -21,7 +21,9 @@ Report Service: https://github.com/aydosenes/report-service
 4- Postman
 
 Once you have cloned these 3 repositories, run them all and use http://localhost:5000 port for the gateway.
+
 You can see the endpoints in ocelot.json in gateway.
+
 Add some contact with their details by http://localhost:5000/contact-service/contact/add-contact-with-detail endpoint
 
 Example JSON: http://jsonblob.com/1013899082766499840
